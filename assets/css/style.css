@@ -5737,17 +5737,25 @@ textarea:-ms-input-placeholder {
   margin: 135px auto 0;
 }
 
+.brand-active .swiper-slide {
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 45px;
+}
+
 .brand-active img {
   max-width: 100%;
   height: auto;
-  transform: scale(3);
-  transform-origin: center;
+  width: 300px;
+  object-fit: contain;
 }
 
 .techwix-brand-section-02 .brand-wrapper {
   border-top: 1px solid #e1e1e1;
-  padding-top: 20px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 360px;
 }
 
 .techwix-brand-section-03 .brand-wrapper {
