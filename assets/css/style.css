@@ -5732,30 +5732,15 @@ textarea:-ms-input-placeholder {
 }
 
 .brand-active {
-  max-width: 3210px;
+  max-width: 1070px;
   width: 100%;
-  margin: 135px auto 0;
-}
-
-.brand-active .swiper-slide {
-  width: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0 45px;
-}
-
-.brand-active img {
-  max-width: 100%;
-  height: auto;
-  width: 300px;
-  object-fit: contain;
+  margin: 45px auto 0;
 }
 
 .techwix-brand-section-02 .brand-wrapper {
   border-top: 1px solid #e1e1e1;
-  padding-top: 60px;
-  padding-bottom: 360px;
+  padding-top: 20px;
+  padding-bottom: 120px;
 }
 
 .techwix-brand-section-03 .brand-wrapper {
