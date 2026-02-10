@@ -5732,9 +5732,16 @@ textarea:-ms-input-placeholder {
 }
 
 .brand-active {
-  max-width: 1070px;
+  max-width: 3210px;
   width: 100%;
-  margin: 45px auto 0;
+  margin: 135px auto 0;
+}
+
+.brand-active img {
+  max-width: 100%;
+  height: auto;
+  transform: scale(3);
+  transform-origin: center;
 }
 
 .techwix-brand-section-02 .brand-wrapper {
